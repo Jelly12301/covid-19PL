@@ -1,0 +1,24 @@
+{
+  "name": "covid-19pl",
+  "version": "1.0.0",
+  "description": "covid-19 in poland",
+  "main": "covid19PL.js",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "js": "node covid19PL.js",
+    "py": "python3 covid19PL.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jelly12301/covid-19PL"
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/Jelly12301/covid-19PL/issues"
+  },
+  "homepage": "https://github.com/Jelly12301/covid-19PL#readme"
+}

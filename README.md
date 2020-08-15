@@ -1,2 +1,2 @@
 # covid-19PL
-covid-19 in  poland
+covid-19 in poland
